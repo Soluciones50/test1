@@ -1,2 +1,4 @@
 info archivo 2
 git remote update --prune
+
+modficacion del archivo 2 para el json
