@@ -1,0 +1,2 @@
+info archivo # 2.1
+git remote update --prune
