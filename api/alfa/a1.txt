@@ -1,0 +1,4 @@
+arvhivo alfa #1
+
+git remote update --prune
+git branch -a
