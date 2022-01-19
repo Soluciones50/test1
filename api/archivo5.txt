@@ -1,0 +1,4 @@
+info archivo # 5 para pruebas
+git remote update origin --prune
+git remote update origin --prune
+git remote update origin --prune
